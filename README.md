@@ -1,6 +1,7 @@
 # PHP-Countries-Array
+``php
 
-`<?php
+<?php
 // All countries
 // length 252
 $countries_list = array(
@@ -257,4 +258,6 @@ $countries_list = array(
     "ZM" => array("id" => "251", "name" => "Zambia", "code" => "260", "capital" => "Lusaka", "symbol" => "ZK", "currency" => "ZMW", "continent" => "Africa", "continent_code" => "AF", "alpha_3" => "ZMB"),
     "ZW" => array("id" => "252", "name" => "Zimbabwe", "code" => "263", "capital" => "Harare", "symbol" => "$", "currency" => "ZWL", "continent" => "Africa", "continent_code" => "AF", "alpha_3" => "ZWE")
 );
-?>`
+?>
+
+```
