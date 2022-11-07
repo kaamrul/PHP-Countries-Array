@@ -1,5 +1,6 @@
 <?php
 // All countries (total 252)
+// https://www.html-code-generator.com/php/array/country-names
     $countries_list = array(
         'AF' => [
             'name' => 'Afghanistan', 

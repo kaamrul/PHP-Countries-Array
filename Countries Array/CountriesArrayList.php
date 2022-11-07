@@ -1,6 +1,7 @@
 <?php
 // All countries
 // length 252
+// https://www.html-code-generator.com/php/array/country-names
 $countries_list = array(
     "AF" => array("id" => "1", "name" => "Afghanistan", "code" => "93", "capital" => "Kabul", "symbol" => "؋", "currency" => "AFN", "continent" => "Asia", "continent_code" => "AS", "alpha_3" => "AFG"),
     "AX" => array("id" => "2", "name" => "Aland Islands", "code" => "358", "capital" => "Mariehamn", "symbol" => "€", "currency" => "EUR", "continent" => "Europe", "continent_code" => "EU", "alpha_3" => "ALA"),
